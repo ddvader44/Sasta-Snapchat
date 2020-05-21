@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918019213083",
+    "firebase_url": "https://sasta-snapchat.firebaseio.com",
+    "project_id": "sasta-snapchat",
+    "storage_bucket": "sasta-snapchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918019213083:android:7cad0bcbac31b20a1f35be",
+        "android_client_info": {
+          "package_name": "com.example.sastasnapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918019213083-vlfnbjetob3okj6timsjobbn2pfv4p3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3KBD6GW-p4SkZUsX4N-HEY7uwNvyxWGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918019213083-vlfnbjetob3okj6timsjobbn2pfv4p3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
